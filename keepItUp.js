@@ -1,4 +1,5 @@
 
+const svg = d3.select("#keepItUpBox");
 
 //creates balloon at random x position, falls on click
 
